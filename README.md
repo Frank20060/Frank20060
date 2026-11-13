@@ -31,11 +31,13 @@ Me interesa especialmente:
 - React
 - JavaScript
 - HTML / CSS
+- TypeScript
 
 **Bases de datos**
 - MySQL
 - PostgreSQL
 - MongoDB
+- Supabase
 
 **Herramientas**
 - Git
